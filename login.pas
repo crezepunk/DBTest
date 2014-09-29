@@ -151,7 +151,6 @@ begin
          exit;
        end;
     end;
-    //Transaction.Commit;
     result := true;
   end;
 end;
